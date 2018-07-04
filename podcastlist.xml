@@ -1,0 +1,4 @@
+<Podcast>
+		<pod name = "ATP" url = "http://atp.fm/episodes?format=rss" />
+		<pod name = "HI" url = "http://www.hellointernet.fm/podcast?format=rss" />
+</Podcast>
